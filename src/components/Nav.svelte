@@ -20,7 +20,7 @@
   <div>
     <ul>
         <li><a href="cooking" target="_blank">Cooking</a></li>
-        <!-- <li><a href="contact" target="_blank">Contact</a></li> -->
+        <li><a href="contact" target="_blank">Contact</a></li>
         <li><a href="about" target="_blank">About</a></li>
         <!-- <li><a href="stories" target="_blank">Stories</a></li> -->
     </ul>
